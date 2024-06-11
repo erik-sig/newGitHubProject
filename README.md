@@ -5,4 +5,5 @@
 - Tailwind
 - React Query
 - Hook Form com Zod
+  
 OBS: Usei um delay de 2 segundos para fazer os loadings, qualquer coisa remova o delay na env
